@@ -78,7 +78,7 @@ function App() {
               </div>
             </div>
             <div className="about-image">
-              <img src="/public/assets/socarrat.jpg" alt="socarrat" />
+              <img src="/assets/socarrat.jpg" alt="socarrat" />
             </div>
           </div>
         </div>
@@ -91,7 +91,7 @@ function App() {
           <div className="experience-grid">
             <div className="experience-card">
               <div className="experience-image">
-                <img src="/public/assets/sacro-michelin.jpg" alt="Restaurant Sacro" />
+                <img src="/assets/sacro-michelin.jpg" alt="Restaurant Sacro" />
               </div>
               <div className="experience-content">
                 <h3>Sacro Resto</h3>
@@ -106,7 +106,7 @@ function App() {
 
             <div className="experience-card">
               <div className="experience-image">
-                <img src="/public/assets/basa-logo.jpg" alt="basa-logo" />
+                <img src="/assets/basa-logo.jpg" alt="basa-logo" />
               </div>
               <div className="experience-content">
                 <h3>Basa</h3>
@@ -121,7 +121,7 @@ function App() {
 
             <div className="experience-card">
               <div className="experience-image">
-                <img src="/public/assets/canal-street-logo.jpg" alt="canal-street-logo" />
+                <img src="/assets/canal-street-logo.jpg" alt="canal-street-logo" />
               </div>
               <div className="experience-content">
                 <h3>Canal Street Bar</h3>
@@ -144,7 +144,7 @@ function App() {
           <h2 className="section-title">Creaciones</h2>
           <div className="portfolio-grid">
             <div className="portfolio-item">
-              <img src="/public/assets/carpaccio-pesca-curada.jpg" alt="carpaccio-pesca" />
+              <img src="/assets/carpaccio-pesca-curada.jpg" alt="carpaccio-pesca" />
               <div className="portfolio-overlay">
                 <h3>Carpaccio Pesca Curada</h3>
                 <p>Acompañado de cítricos macerados, aceite verde de hierbas frescas y un toque crocante y picante</p>
@@ -152,7 +152,7 @@ function App() {
             </div>
 
             <div className="portfolio-item">
-              <img src="/public/assets/carpaccio-remolacha.jpg" alt="carpaccio-remolacha" />
+              <img src="/assets/carpaccio-remolacha.jpg" alt="carpaccio-remolacha" />
               <div className="portfolio-overlay">
                 <h3>Carpaccio de Remolacha</h3>
                 <p>Con cremoso de lima y eneldo, con vinagreta de naranja y garrapiñada de avellanas</p>
@@ -160,7 +160,7 @@ function App() {
             </div>
 
             <div className="portfolio-item">
-              <img src="/public/assets/cachapa.jpg" alt="img-cachapa" />
+              <img src="/assets/cachapa.jpg" alt="img-cachapa" />
               <div className="portfolio-overlay">
                 <h3>Cachapa</h3>
                 <p>Re versión del clasico venezolano, con alioli de ajo, crema de palta y hongos shitakes</p>
@@ -168,7 +168,7 @@ function App() {
             </div>
 
             <div className="portfolio-item">
-              <img src="/public/assets/langostinos-plancha.jpg" alt="langostino plancha" />
+              <img src="/assets/langostinos-plancha.jpg" alt="langostino plancha" />
               <div className="portfolio-overlay">
                 <h3>Langostinos a la plancha</h3>
                 <p>Acompañado con pan pita, un yogurt de ajo y curry rojo con miel de caña</p>
@@ -176,7 +176,7 @@ function App() {
             </div>
 
             <div className="portfolio-item">
-              <img src="/public/assets/taquitos-chipiron.jpg" alt="taquitos de chipiron" />
+              <img src="/assets/taquitos-chipiron.jpg" alt="taquitos de chipiron" />
               <div className="portfolio-overlay">
                 <h3>Taquitos de chipiron</h3>
                 <p>Clasico de la comida mexicana con ensalada de anana tatemada y alioli de jalapeño</p>
@@ -184,7 +184,7 @@ function App() {
             </div>
 
             <div className="portfolio-item">
-              <img src="/public/assets/curry-verde.jpg" alt="Duck Confit Modern" />
+              <img src="/assets/curry-verde.jpg" alt="Duck Confit Modern" />
               <div className="portfolio-overlay">
                 <h3>Pesca con curry verde</h3>
                 <p>Con coliflor asado en miel de mostaza antigua y curry verde de hierbas</p>
